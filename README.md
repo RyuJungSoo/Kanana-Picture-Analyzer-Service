@@ -3,6 +3,8 @@
 > Kakao의 Kanana-o 모델을 활용하여 이미지와 텍스트를 동시에 분석하고, 결과값을 텍스트 또는    
 **고음질 음성(TTS)** 으로 제공하는 멀티모달 서비스입니다.
 
+[그림 분석기 바로가기](https://kanana-picture-analyzer-service-agq7tqq7w9xpy2ymtmu6fz.streamlit.app/)
+
 ---
 ## ✨ 주요 기능 (Key Features)
 * 🖼️ 멀티모달 분석: 이미지를 업로드하고 질문을 입력하면 AI가 상황을 정밀하게 분석합니다.
